@@ -59,10 +59,6 @@ Query: "I want to watch something with ghosts or zombies"
    4. Away We Go (Similarity: 0.10)
    5. Scrooged (Similarity: 0.10)
 
-## Demo
-
-[Link to the demo video](https://www.youtube.com/watch?v=rVwNgm1MWI8)
-
 ## Salary Expectation
 My desired salary would be in the $20-$30 an hour range, which monthly would be around 
 $3000-$4000 a month with the assumption that I'm working full time during the summer.
